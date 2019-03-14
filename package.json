@@ -1,0 +1,19 @@
+{
+  "name": "rxtrack",
+  "version": "1.0.0",
+  "description": "Web Application that creates reminder and logging system for recommended prescription drugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoowebdev/RxTrack.git"
+  },
+  "author": "Chris Yoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoowebdev/RxTrack/issues"
+  },
+  "homepage": "https://github.com/yoowebdev/RxTrack#readme"
+}
